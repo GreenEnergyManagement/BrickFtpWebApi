@@ -106,4 +106,36 @@ The unit test demonstrates how the code can be used:
             Session session = BrickFtp.Login(domain, username, password);
             BrickFtp.DeleteFile(session, "/Testtt/NewFolderTest/Forecast_MG_GwyntYMor_84_0_2016060400.csv");
         }
+
+        [Test]
+        public void TestMoveFile()
+        {   //POST /files/:source_path_and_filename
+
+            Session session = BrickFtp.Login(domain, username, password);
+            BrickFtp.CopyFileOrFolder(session, "/Testtt/NewFolderTest/Forecast_MG_GwyntYMor_84_0_2016060400.csv", "/Testtt/Forecast_MG_GwyntYMor_84_0_2016060400.csv", false);
+        }
+
+        [Test]
+        public void TestMoveFolder()
+        {   //POST /files/:source_path_and_filename
+
+            Session session = BrickFtp.Login(domain, username, password);
+            BrickFtp.CopyFileOrFolder(session, "/Testtt/NewFolderTest/YetAnotherTestFolder", "/Testtt/YetAnotherTestFolder", false);
+        }
+
+        [Test]
+        public void TestCopyFile()
+        {   //POST /files/:source_path_and_filename
+
+            Session session = BrickFtp.Login(domain, username, password);
+            BrickFtp.CopyFileOrFolder(session, "/Testtt/Forecast_MG_GwyntYMor_84_0_2016060400.csv", "/Testtt/NewFolderTest/Forecast_MG_GwyntYMor_84_0_2016060400.csv");
+        }
+
+        [Test]
+        public void TestCopyFolder()
+        {   //POST /files/:source_path_and_filename
+
+            Session session = BrickFtp.Login(domain, username, password);
+            BrickFtp.CopyFileOrFolder(session, "/Testtt/YetAnotherTestFolder", "/Testtt/NewFolderTest/YetAnotherTestFolder");
+        }
     }
