@@ -1,0 +1,14 @@
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Gem.BrickFtpWebApi.Test.dll.config
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Gem.BrickFtpWebApi.Test.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Gem.BrickFtpWebApi.Test.pdb
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Gem.BrickFtpWebApi.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\log4net.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Newtonsoft.Json.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\nunit.framework.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Gem.BrickFtpWebApi.pdb
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\log4net.xml
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\Newtonsoft.Json.xml
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\bin\Release\nunit.framework.xml
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\obj\Release\Gem.BrickFtpWebApi.Test.csprojResolveAssemblyReference.cache
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\obj\Release\Gem.BrickFtpWebApi.Test.dll
+C:\aquiloz\BrickFtpWebApi\BrickFtpWebApi\Gem.BrickFtpWebApi.Test\obj\Release\Gem.BrickFtpWebApi.Test.pdb
