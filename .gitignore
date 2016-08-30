@@ -1,0 +1,5 @@
+# git ignore file
+Gem.BrickFtpWebApi/obj/Release*/
+Gem.BrickFtpWebApi/obj/Debug*/
+Gem.BrickFtpWebApi/bin/Release*/
+Gem.BrickFtpWebApi/bin/Debug*/
