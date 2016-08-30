@@ -10,6 +10,9 @@ The unit test demonstrates how the code can be used:
         string username = "test";
         string password = "TestUser";
 
+        // After having created the session, the idea is that you stuff it somewhere (a cache or db) and you
+        // reuse it for the rest of the day or until it is invalid, and you have to re-authenticate. For the
+        // purpose of this unit test, we are not reusing the session.
         [Test]
         public void TestConnectToBrickFtp()
         {
