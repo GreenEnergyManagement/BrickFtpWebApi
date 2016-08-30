@@ -1,6 +1,10 @@
 # BrickFtpWebApi
 A Web API implementation of BrickFTP's REST API
 
+If you do not want to download the source code, then you can download the zip file in the root folder which has a compiled version of the current source. The file is called: Gem.BrickFtpWebApi.Compiled.zip
+
+
+
 The unit test demonstrates how the code can be used:
 
     [TestFixture]
